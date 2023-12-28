@@ -1,5 +1,6 @@
-
-
+<div id="header" align="center">
+  <img src="banner.png" width="100"/>
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/tai-yu-lin-021529291/">
