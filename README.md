@@ -10,6 +10,6 @@
   </a>
 </div>
 
-<div id="count" align="center>
+<div id="count" align="center">
   <img src="https://komarev.com/ghpvc/?username=tia-tai&style=flat-square&color=blue" alt=""/>
 </div>
