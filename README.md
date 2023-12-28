@@ -15,12 +15,11 @@
 </div>
 
 <h2>About Me:</h2>
-I am a student in Philly👌
- - 🔭 I complete projects from time to time as a self-taught programmer.
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
- - 🍞 "Gotta love me some good bread."
- - 🔰 In my freetime, I enjoy watching anime.
- - 📭 Feel free to reach out to me via LinkedIn.
+<p>I am a student in Philly👌</p>
+<p> - 🔭 I complete projects from time to time as a self-taught programmer. </p>
+<p> - 🍞 "Gotta love me some good bread." </p>
+<p> - 🔰 In my freetime, I enjoy watching anime. </p>
+<p> - 📭 Feel free to reach out to me via LinkedIn. </p>
 
 ---
 
