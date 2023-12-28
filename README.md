@@ -16,10 +16,10 @@
 
 <h2>About Me:</h2>
 I am a student in Philly👌
-- 🔭 I complete projects from time to time as a self-taught programmer.
-- 🍞 "Gotta love me some good bread."
-- 🔰 In my freetime, I enjoy watching anime.
-- 📭 Feel free to reach out to me via LinkedIn.
+ - 🔭 I complete projects from time to time as a self-taught programmer.
+ - 🍞 "Gotta love me some good bread."
+ - 🔰 In my freetime, I enjoy watching anime.
+ - 📭 Feel free to reach out to me via LinkedIn.
 
 ---
 
