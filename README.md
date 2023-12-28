@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my Github! 😺😸😺😸</h1>
-
 <div id="header" align="center">
   <img src="banner.png" width="700"/>
 </div>
+
+<h1 align="center">Welcome to my Github! 😺😸😺😸</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tai-yu-lin-021529291/">
